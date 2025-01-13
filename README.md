@@ -12,6 +12,7 @@ client/server shutting down or playing a game
 
 
 Client side
+
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/46e5cb93-099d-451e-bdf1-194c7a6bf778" />
 
 Server side
